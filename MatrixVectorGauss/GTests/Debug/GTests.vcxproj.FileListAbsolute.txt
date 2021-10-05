@@ -1,0 +1,2 @@
+D:\Users\Александр\Documents\Университет\ЯиМП ДЗ\ДЗ\MatrixVectorGauss\Debug\GTests.pdb
+D:\Users\Александр\Documents\Университет\ЯиМП ДЗ\ДЗ\MatrixVectorGauss\GTests\Debug\GTests.pdb

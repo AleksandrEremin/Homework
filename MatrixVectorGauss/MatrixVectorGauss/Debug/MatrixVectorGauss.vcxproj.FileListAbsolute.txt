@@ -1,0 +1,4 @@
+D:\Users\Александр\Documents\Университет\ЯиМП ДЗ\ДЗ\MatrixVectorGauss\Debug\MatrixVectorGauss.pdb
+D:\Users\Александр\Documents\Университет\ЯиМП ДЗ\ДЗ\MatrixVectorGauss\MatrixVectorGauss\Debug\MatrixVectorGauss.pdb
+C:\Users\Александр\Desktop\Разбиения и тесты\Debug\MatrixVectorGauss.pdb
+C:\Users\Александр\Desktop\Разбиения и тесты\MatrixVectorGauss\Debug\MatrixVectorGauss.pdb

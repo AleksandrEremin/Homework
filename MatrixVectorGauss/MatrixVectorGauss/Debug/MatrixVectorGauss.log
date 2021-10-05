@@ -1,0 +1,9 @@
+﻿  Matrix.cpp
+C:\Users\Александр\Desktop\Разбиения и тесты\MatrixVectorGauss\Matrix.cpp(69,21): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Solver.cpp
+C:\Users\Александр\Desktop\Разбиения и тесты\MatrixVectorGauss\Solver.cpp(57,6): warning C4101: i: неиспользованная локальная переменная
+  Vector.cpp
+  Создание кода...
+C:\Users\Александр\Desktop\Разбиения и тесты\MatrixVectorGauss\Vector.cpp(69): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Александр\Desktop\Разбиения и тесты\MatrixVectorGauss\Matrix.cpp(78): warning C4715: matrix::operator[]: значение возвращается не при всех путях выполнения
+  MatrixVectorGauss.vcxproj -> C:\Users\Александр\Desktop\Разбиения и тесты\Debug\MatrixVectorGauss.lib
